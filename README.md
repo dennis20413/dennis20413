@@ -1,8 +1,8 @@
-# Hi, I'm Dennis Chen 👋
+# Hi, I'm Dennis Chen 陳雲皓 👋
 
-**Data Science** student (GPA 3.9) focused on **quantitative finance, statistical modeling, and algorithmic trading**.
+**Data Science** candidate (GPA 3.9) who turns messy, real-world data into models people can actually use and understand.
 
-I build models that turn large, noisy datasets into interpretable signals — and I care about reproducible, well-documented, and **tested** workflows. My quant portfolio below covers the full analyst toolkit: from alpha generation to risk management.
+I build end-to-end: data pipelines, feature engineering, machine learning, and clear evaluation — with reproducible, **tested** code. My work spans applied ML, quantitative finance, and real-API data engineering.
 
 ---
 
@@ -15,24 +15,33 @@ I build models that turn large, noisy datasets into interpretable signals — an
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 - **Languages:** Python, SQL, VBA
-- **Quant methods:** Regression & piecewise regression, time-series (GARCH), cointegration, factor models, portfolio optimization, hypothesis testing
-- **Finance:** Algorithmic trading, statistical arbitrage, risk management (VaR), asset allocation, backtesting
+- **ML & Stats:** Classification, regression, feature engineering, cross-validation, model evaluation & interpretability, time-series
+- **Data Engineering:** REST API ingestion (rate limits, auth), large-scale data cleaning & validation, reproducible pipelines
+- **Domains:** Applied ML, quantitative finance, esports analytics
 
 ---
 
-### 📌 Quant Portfolio
+### 📌 Featured Projects
+
+**🤖 Machine Learning & Data Science**
 
 | Project | What it demonstrates |
 |---------|----------------------|
-| [Piecewise Regression — Equity Analysis](https://github.com/dennis20413/2026-V-TSLA-GOOG-AAPL-stock-analysis) | Statistical modeling & trend decomposition (AAPL, GOOG, TSLA, V), validated against a reference tool |
-| [Quant Backtesting Framework](https://github.com/dennis20413/quant-backtest-framework) | Strategy backtesting with realistic costs, no look-ahead bias, risk-adjusted metrics |
-| [Pairs Trading — Statistical Arbitrage](https://github.com/dennis20413/pairs-trading) | Cointegration testing, z-score spread signals, market-neutral backtest |
-| [Portfolio Optimization](https://github.com/dennis20413/portfolio-optimization) | Mean-variance (Markowitz), min-variance & risk-parity allocation |
-| [Multi-Factor Stock Model](https://github.com/dennis20413/factor-model) | Factor construction, Information Coefficient evaluation, quantile portfolios |
-| [GARCH Volatility & VaR](https://github.com/dennis20413/garch-volatility) | Volatility clustering, forecasting, Value-at-Risk with calibration backtest |
-| [US-Equity Signal Dashboard](https://github.com/dennis20413/live-signal-dashboard) | Live-data signal engine blending strategies + paper-trading simulator (research tool) |
+| [Esports Win Predictor (LoL)](https://github.com/dennis20413/esports-win-predictor-LoL-) | End-to-end ML classifier: feature engineering, cross-validation, interpretability, and a **real Riot API data pipeline** (rate limits, auth, caching) |
+| [Forensic Data Cleaning Pipeline](https://github.com/dennis20413/data-cleaning) | Multi-phase cleaning & reconciliation of a 50k-row dirty dataset |
 
-*Every project includes unit tests and an honest methodology write-up (limitations stated, not hidden).*
+**📈 Quantitative Finance**
+
+| Project | What it demonstrates |
+|---------|----------------------|
+| [Multi-Factor Stock Model](https://github.com/dennis20413/factor-model) | Factor construction, Information Coefficient evaluation, quantile portfolios |
+| [GARCH Volatility & VaR](https://github.com/dennis20413/garch-volatility) | Time-series volatility modeling, forecasting, Value-at-Risk with calibration |
+| [Pairs Trading — Stat Arb](https://github.com/dennis20413/pairs-trading) | Cointegration testing, z-score signals, market-neutral backtest |
+| [Portfolio Optimization](https://github.com/dennis20413/portfolio-optimization) | Mean-variance, min-variance & risk-parity allocation |
+| [Quant Backtesting Framework](https://github.com/dennis20413/quant-backtest-framework) | Strategy backtesting with realistic costs and no look-ahead bias |
+| [Piecewise Regression — Equity Analysis](https://github.com/dennis20413/2026-V-TSLA-GOOG-AAPL-stock-analysis) | Statistical trend decomposition, validated against a reference tool |
+
+*Every project includes unit tests and an honest methodology write-up — limitations stated, not hidden.*
 
 ---
 
@@ -41,4 +50,4 @@ I build models that turn large, noisy datasets into interpretable signals — an
 &nbsp; 📧 dennis07250725@gmail.com
 
 ---
-*Currently a junior (大三) building toward quantitative analyst / data science roles.*
+*Currently a junior (大三) building toward data science / machine learning roles.*
