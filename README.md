@@ -1,4 +1,4 @@
-# Hi, I'm Dennis Chen 陳雲皓 👋
+# Hi, I'm Dennis Chen 👋
 
 **Data Science** student (GPA 3.9) focused on **quantitative finance, statistical modeling, and algorithmic trading**.
 
