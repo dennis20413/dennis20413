@@ -1,13 +1,13 @@
 # Hi, I'm Dennis Chen 陳雲皓 👋
 
-**Data Science candidate** GPA 3.9 focused on **quantitative finance, statistical modeling, and algorithmic trading**.
+**Data Science** candidate GPA 3.9 focused on **quantitative finance, statistical modeling, and algorithmic trading**.
 
-I build models that turn large, noisy datasets into interpretable signals — piecewise linear regression, time-series trend decomposition, and predictive analytics — and I care deeply about reproducible, well-documented workflows.
+I build models that turn large, noisy datasets into interpretable signals — piecewise linear regression, time-series trend decomposition, and predictive analytics — and I care about reproducible, well-documented, and tested workflows.
 
 ---
 
 ### 🔭 What I'm working on
-- **Quantitative equity analysis** — piecewise linear regression for trend-regime decomposition (NVDA, V, TSLA, AAPL)
+- **Quantitative equity analysis** — piecewise linear regression for trend-regime decomposition (AAPL, GOOG, TSLA, V)
 - **Algorithmic & quantitative trading** — systematic strategy research and signal design
 - **Data engineering** — large-scale data cleaning, validation, and reconciliation pipelines
 
@@ -26,7 +26,7 @@ I build models that turn large, noisy datasets into interpretable signals — pi
 ### 📌 Featured Projects
 | Project | Description |
 |---------|-------------|
-| [Stock Analysis (NVDA/V/TSLA/AAPL)](https://github.com/dennis20413/2025-V-NVDA-stock-analysis) | Piecewise linear regression for equity trend-regime decomposition |
+| [Piecewise Regression — Equity Analysis](https://github.com/dennis20413/2026-V-TSLA-GOOG-AAPL-stock-analysis) | Piecewise linear regression for equity trend-regime decomposition (AAPL, GOOG, TSLA, V), validated against a reference tool |
 | [Data Cleaning Pipeline](https://github.com/dennis20413/data-cleaning) | Multi-phase cleaning of a 50k-row dirty sales dataset |
 | [Data Analysis & Computer Applications](https://github.com/dennis20413/data-analysis-and-computer-applications) | Coursework and applied analysis projects |
 
