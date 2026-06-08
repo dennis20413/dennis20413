@@ -30,6 +30,7 @@ I build models that turn large, noisy datasets into interpretable signals — an
 | [Portfolio Optimization](https://github.com/dennis20413/portfolio-optimization) | Mean-variance (Markowitz), min-variance & risk-parity allocation |
 | [Multi-Factor Stock Model](https://github.com/dennis20413/factor-model) | Factor construction, Information Coefficient evaluation, quantile portfolios |
 | [GARCH Volatility & VaR](https://github.com/dennis20413/garch-volatility) | Volatility clustering, forecasting, Value-at-Risk with calibration backtest |
+| [US-Equity Signal Dashboard](https://github.com/dennis20413/live-signal-dashboard) | Live-data signal engine blending strategies + paper-trading simulator (research tool) |
 
 *Every project includes unit tests and an honest methodology write-up (limitations stated, not hidden).*
 
@@ -40,4 +41,4 @@ I build models that turn large, noisy datasets into interpretable signals — an
 &nbsp; 📧 dennis07250725@gmail.com
 
 ---
-*Currently seeking quantitative analyst / data science opportunities.*
+*Currently a junior (大三) building toward quantitative analyst / data science roles.*
