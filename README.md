@@ -1,4 +1,4 @@
-# Hi, I'm Dennis Chen 陳雲皓 👋
+# Hi, I'm Dennis Chen 👋
 
 **Data Science** candidate (GPA 3.9) who turns messy, real-world data into models people can actually use and understand.
 
@@ -50,4 +50,4 @@ I build end-to-end: data pipelines, feature engineering, machine learning, and c
 &nbsp; 📧 dennis07250725@gmail.com
 
 ---
-*Currently a junior (大三) building toward data science / machine learning roles.*
+*Currently a junior building toward data science / machine learning roles.*
