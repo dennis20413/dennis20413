@@ -1,6 +1,6 @@
 # Hi, I'm Dennis Chen 陳雲皓 👋
 
-**Data Science candidate** (UC Irvine × Chung Hua University dual-degree, GPA 3.9) focused on **quantitative finance, statistical modeling, and algorithmic trading**.
+**Data Science candidate** GPA 3.9 focused on **quantitative finance, statistical modeling, and algorithmic trading**.
 
 I build models that turn large, noisy datasets into interpretable signals — piecewise linear regression, time-series trend decomposition, and predictive analytics — and I care deeply about reproducible, well-documented workflows.
 
