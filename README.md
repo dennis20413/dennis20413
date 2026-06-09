@@ -1,8 +1,8 @@
-# Hi, I'm Dennis Chen 👋
+# Hi, I'm Dennis Chen 陳雲皓 👋
 
-**Data Science** candidate (GPA 3.9) who turns messy, real-world data into models people can actually use and understand.
+**Data Science** student (GPA 3.9x) who turns messy, real-world data into models people can actually use and understand.
 
-I build end-to-end: data pipelines, feature engineering, machine learning, and clear evaluation — with reproducible, **tested** code. My work spans applied ML, quantitative finance, and real-API data engineering.
+I build end-to-end: data pipelines, feature engineering, machine learning, and clear evaluation — with reproducible, **tested** code. My work spans applied ML, NLP, analytics, and quantitative finance.
 
 ---
 
@@ -11,13 +11,13 @@ I build end-to-end: data pipelines, feature engineering, machine learning, and c
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 - **Languages:** Python, SQL, VBA
-- **ML & Stats:** Classification, regression, feature engineering, cross-validation, model evaluation & interpretability, time-series
-- **Data Engineering:** REST API ingestion (rate limits, auth), large-scale data cleaning & validation, reproducible pipelines
-- **Domains:** Applied ML, quantitative finance, esports analytics
+- **ML & Stats:** Classification, regression, NLP, feature engineering, cross-validation, model evaluation & interpretability
+- **Analytics & Data Eng:** SQL (window functions, CTEs, cohorts), EDA & visualization, REST API ingestion, large-scale data cleaning
+- **Apps:** Streamlit (interactive, deployable ML apps)
 
 ---
 
@@ -27,7 +27,16 @@ I build end-to-end: data pipelines, feature engineering, machine learning, and c
 
 | Project | What it demonstrates |
 |---------|----------------------|
-| [Esports Win Predictor (LoL)](https://github.com/dennis20413/esports-win-predictor-LoL-) | End-to-end ML classifier: feature engineering, cross-validation, interpretability, and a **real Riot API data pipeline** (rate limits, auth, caching) |
+| [LoL Win Predictor — Live App](https://github.com/dennis20413/esports-winrate-app) | **End-to-end & deployable**: a trained model wrapped in an interactive Streamlit web app |
+| [Esports Win Predictor (ML + Riot API)](https://github.com/dennis20413/esports-win-predictor-LoL-) | ML classifier with feature engineering, cross-validation, and a **real Riot API data pipeline** |
+| [NLP Sentiment Analysis](https://github.com/dennis20413/nlp-sentiment-analysis) | Text preprocessing (negation handling), TF-IDF, interpretable classification |
+| [Customer Insights EDA](https://github.com/dennis20413/eda-customer-insights) | Data-quality auditing, segment profiling, correlation analysis & visualization |
+
+**🗄️ Data & Analytics**
+
+| Project | What it demonstrates |
+|---------|----------------------|
+| [SQL Sales Analytics](https://github.com/dennis20413/sql-sales-analytics) | Window functions, CTEs, cohort retention, RFM segmentation |
 | [Forensic Data Cleaning Pipeline](https://github.com/dennis20413/data-cleaning) | Multi-phase cleaning & reconciliation of a 50k-row dirty dataset |
 
 **📈 Quantitative Finance**
@@ -35,7 +44,7 @@ I build end-to-end: data pipelines, feature engineering, machine learning, and c
 | Project | What it demonstrates |
 |---------|----------------------|
 | [Multi-Factor Stock Model](https://github.com/dennis20413/factor-model) | Factor construction, Information Coefficient evaluation, quantile portfolios |
-| [GARCH Volatility & VaR](https://github.com/dennis20413/garch-volatility) | Time-series volatility modeling, forecasting, Value-at-Risk with calibration |
+| [GARCH Volatility & VaR](https://github.com/dennis20413/garch-volatility) | Time-series volatility modeling, forecasting, Value-at-Risk |
 | [Pairs Trading — Stat Arb](https://github.com/dennis20413/pairs-trading) | Cointegration testing, z-score signals, market-neutral backtest |
 | [Portfolio Optimization](https://github.com/dennis20413/portfolio-optimization) | Mean-variance, min-variance & risk-parity allocation |
 | [Quant Backtesting Framework](https://github.com/dennis20413/quant-backtest-framework) | Strategy backtesting with realistic costs and no look-ahead bias |
@@ -50,4 +59,4 @@ I build end-to-end: data pipelines, feature engineering, machine learning, and c
 &nbsp; 📧 dennis07250725@gmail.com
 
 ---
-*Currently a junior building toward data science / machine learning roles.*
+*Currently a junior (大三) building toward data science / machine learning roles.*
