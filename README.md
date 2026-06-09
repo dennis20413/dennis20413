@@ -59,4 +59,4 @@ I build end-to-end: data pipelines, feature engineering, machine learning, and c
 &nbsp; 📧 dennis07250725@gmail.com
 
 ---
-*Currently a junior (大三) building toward data science / machine learning roles.*
+*Currently a junior building toward data science / machine learning roles.*
