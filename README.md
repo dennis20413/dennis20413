@@ -1,4 +1,4 @@
-# Hi, I'm Dennis Chen 陳雲皓 👋
+# Hi, I'm Dennis Chen (YunHao Chen) 👋
 
 **Data Science** student (GPA 3.9x) who turns messy, real-world data into models people can actually use and understand.
 
