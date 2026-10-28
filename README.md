@@ -1,71 +1,47 @@
-# Hi, I'm Dennis Chen (YunHao Chen) 
+# Hi, I'm Dennis Chen (YunHao Chen)
 
-**Data Science** student (GPA 3.87/4.0) who turns messy, real world data into models people can actually use and understand.
+**Data science and machine learning student** (GPA 3.87/4.0), building reproducible models, reliable data workflows and Python applications.
 
-I build end-to-end: data pipelines, feature engineering, machine learning, and clear evaluation — with reproducible, **tested** code. My work spans applied ML, NLP, analytics, and quantitative finance.
+My focus is data science / ML, with practical work in AI applications and data-focused software engineering. The projects below emphasize explicit data contracts, useful baselines, time-aware evaluation and tests.
 
----
+### Selected projects
 
-### 🧰 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+| Project | Evidence and focus |
+|---|---|
+| [Customer Response ML Service](https://github.com/dennis20413/customer-response-ml-service) | Real UCI data, ordered evaluation, distribution-shift analysis and a validated FastAPI batch service |
+| [Migration Reconciliation Lab](https://github.com/dennis20413/migration-reconciliation-lab) | DuckDB SQL, composite keys, exact-decimal comparisons, exception audits and a measured million-row synthetic benchmark |
+| [Football Prediction Engine](https://github.com/dennis20413/football-prediction-engine) | Pinned public match data, corrected chronological backtest, probability checks, coverage reporting and CI |
+| [Esports Match Win Predictor](https://github.com/dennis20413/esports-win-predictor-LoL) | Riot ingestion code, metadata validation, match-level time splits and outcome-availability checks; current evaluation is synthetic |
+| [SQL Sales Analytics](https://github.com/dennis20413/sql-sales-analytics) | Exact-money queries, refunds, observed-window cohort retention and as-of RFM, checked against hand-computable fixtures |
 
-- **Languages:** Python, SQL, VBA
-- **ML & Stats:** Classification, regression, NLP, feature engineering, cross-validation, model evaluation & interpretability
-- **Analytics & Data Eng:** SQL (window functions, CTEs, cohorts), EDA & visualization, REST API ingestion, large-scale data cleaning
-- **Apps:** Streamlit (interactive, deployable ML apps)
+**Evaluation scope:** football and the customer-response service include public-data evaluations. Esports uses synthetic offline evaluation and mocked API tests; live Riot collection and real-match performance remain unverified. SQL and reconciliation use clearly labelled generated data to validate analytical and engineering behavior.
 
----
+### Tools used in these projects
 
-### 📌 Featured Projects
+- **Languages and data:** Python, SQL, VBA, pandas, NumPy, SQLite and DuckDB
+- **Modelling:** scikit-learn, Poisson regression, classification, feature engineering and probability evaluation
+- **Applications and delivery:** FastAPI, Streamlit, REST ingestion, pytest and GitHub Actions
+- **Working practices:** source fingerprints, temporal isolation, explicit failure handling and reproducible reports
 
-**Data systems & ML services**
+<details>
+<summary>Earlier learning projects and numerical experiments</summary>
 
-| Project | What it demonstrates |
-|---------|----------------------|
-| [Customer Response ML Service](https://github.com/dennis20413/customer-response-ml-service) | Real UCI data, ordered holdouts, baseline comparisons, temporal shift analysis, a validated FastAPI batch API, tests and container configuration |
-| [Migration Reconciliation Lab](https://github.com/dennis20413/migration-reconciliation-lab) | DuckDB SQL, composite-key validation, duplicate quarantine, exact-decimal tolerances, exception reports and measured synthetic-data benchmarks |
-| [Football Match Prediction Engine](https://github.com/dennis20413/football-prediction-engine) | Poisson/Dixon-Coles match modelling, chronological backtesting and baseline comparisons |
+These repositories preserve earlier experiments. Their synthetic examples and in-sample analyses have narrower scope than the selected projects above.
 
+- [NLP sentiment classification](https://github.com/dennis20413/nlp-sentiment-analysis) — phrase-template synthetic text exercise
+- [Customer EDA](https://github.com/dennis20413/eda-customer-insights) — generated-data exploration
+- [Earlier data-cleaning exercise](https://github.com/dennis20413/data-cleaning)
+- [LoL Streamlit demo](https://github.com/dennis20413/esports-winrate-app) — separate synthetic-model UI demo
+- [Quant backtesting framework](https://github.com/dennis20413/quant-backtest-framework)
+- [Pairs-trading methods](https://github.com/dennis20413/pairs-trading-statarb)
+- [Portfolio optimization](https://github.com/dennis20413/portfolio-optimization)
+- [Factor-model exercise](https://github.com/dennis20413/factor-model)
+- [GARCH volatility methods](https://github.com/dennis20413/garch-volatility)
+- [Console signal and accounting demo](https://github.com/dennis20413/live-signal-dashboard)
+- [Piecewise-regression numerical reproduction](https://github.com/dennis20413/piecewise-regression-equity-analysis)
 
-**🤖 Machine Learning & Data Science**
+</details>
 
-| Project | What it demonstrates |
-|---------|----------------------|
-| [LoL Win Predictor — Streamlit Demo](https://github.com/dennis20413/esports-winrate-app) | Interactive demo using a model trained on synthetic data |
-| [Esports Win Predictor (ML + Riot API)](https://github.com/dennis20413/esports-win-predictor-LoL) | ML classifier with feature engineering, cross-validation, and a **real Riot API data pipeline** |
-| [NLP Sentiment Analysis](https://github.com/dennis20413/nlp-sentiment-analysis) | Text preprocessing (negation handling), TF-IDF, interpretable classification |
-| [Customer Insights EDA](https://github.com/dennis20413/eda-customer-insights) | Data-quality auditing, segment profiling, correlation analysis & visualization |
+### Contact
 
-**🗄️ Data & Analytics**
-
-| Project | What it demonstrates |
-|---------|----------------------|
-| [SQL Sales Analytics](https://github.com/dennis20413/sql-sales-analytics) | Window functions, CTEs, cohort retention, RFM segmentation |
-| [Forensic Data Cleaning Pipeline](https://github.com/dennis20413/data-cleaning) | Multi-phase cleaning & reconciliation of a 50k-row dirty dataset |
-
-**📈 Quantitative Finance**
-
-| Project | What it demonstrates |
-|---------|----------------------|
-| [Multi-Factor Stock Model](https://github.com/dennis20413/factor-model) | Factor construction, Information Coefficient evaluation, quantile portfolios |
-| [GARCH Volatility & VaR](https://github.com/dennis20413/garch-volatility) | Time-series volatility modeling, forecasting, Value-at-Risk |
-| [Pairs Trading — Stat Arb](https://github.com/dennis20413/pairs-trading-statarb) | Cointegration testing, z-score signals, market-neutral backtest |
-| [Portfolio Optimization](https://github.com/dennis20413/portfolio-optimization) | Mean-variance, min-variance & risk-parity allocation |
-| [Quant Backtesting Framework](https://github.com/dennis20413/quant-backtest-framework) | Strategy backtesting with realistic costs and no look-ahead bias |
-| [Piecewise Regression — Equity Analysis](https://github.com/dennis20413/piecewise-regression-equity-analysis) | Statistical trend decomposition, validated against a reference tool |
-
-*The new ML service and reconciliation projects include automated tests, reproducible reports, and documented limitations. Evaluation protocols differ across the older projects.*
-
----
-
-### 📫 Reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dennischen2507)
-&nbsp; 📧 dennis07250725@gmail.com
-
----
-*Currently a junior building toward data science / machine learning roles.*
+[LinkedIn](https://linkedin.com/in/dennischen2507) · [dennis07250725@gmail.com](mailto:dennis07250725@gmail.com)
