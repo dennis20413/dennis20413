@@ -23,12 +23,21 @@ I build end-to-end: data pipelines, feature engineering, machine learning, and c
 
 ### 📌 Featured Projects
 
+**Data systems & ML services**
+
+| Project | What it demonstrates |
+|---------|----------------------|
+| [Customer Response ML Service](https://github.com/dennis20413/customer-response-ml-service) | Real UCI data, ordered holdouts, baseline comparisons, temporal shift analysis, a validated FastAPI batch API, tests and container configuration |
+| [Migration Reconciliation Lab](https://github.com/dennis20413/migration-reconciliation-lab) | DuckDB SQL, composite-key validation, duplicate quarantine, exact-decimal tolerances, exception reports and measured synthetic-data benchmarks |
+| [Football Match Prediction Engine](https://github.com/dennis20413/football-prediction-engine) | Poisson/Dixon-Coles match modelling, chronological backtesting and baseline comparisons |
+
+
 **🤖 Machine Learning & Data Science**
 
 | Project | What it demonstrates |
 |---------|----------------------|
-| [LoL Win Predictor — Live App](https://github.com/dennis20413/esports-winrate-app) | **End-to-end & deployable**: a trained model wrapped in an interactive Streamlit web app |
-| [Esports Win Predictor (ML + Riot API)](https://github.com/dennis20413/esports-win-predictor-LoL-) | ML classifier with feature engineering, cross-validation, and a **real Riot API data pipeline** |
+| [LoL Win Predictor — Streamlit Demo](https://github.com/dennis20413/esports-winrate-app) | Interactive demo using a model trained on synthetic data |
+| [Esports Win Predictor (ML + Riot API)](https://github.com/dennis20413/esports-win-predictor-LoL) | ML classifier with feature engineering, cross-validation, and a **real Riot API data pipeline** |
 | [NLP Sentiment Analysis](https://github.com/dennis20413/nlp-sentiment-analysis) | Text preprocessing (negation handling), TF-IDF, interpretable classification |
 | [Customer Insights EDA](https://github.com/dennis20413/eda-customer-insights) | Data-quality auditing, segment profiling, correlation analysis & visualization |
 
@@ -45,12 +54,12 @@ I build end-to-end: data pipelines, feature engineering, machine learning, and c
 |---------|----------------------|
 | [Multi-Factor Stock Model](https://github.com/dennis20413/factor-model) | Factor construction, Information Coefficient evaluation, quantile portfolios |
 | [GARCH Volatility & VaR](https://github.com/dennis20413/garch-volatility) | Time-series volatility modeling, forecasting, Value-at-Risk |
-| [Pairs Trading — Stat Arb](https://github.com/dennis20413/pairs-trading) | Cointegration testing, z-score signals, market-neutral backtest |
+| [Pairs Trading — Stat Arb](https://github.com/dennis20413/pairs-trading-statarb) | Cointegration testing, z-score signals, market-neutral backtest |
 | [Portfolio Optimization](https://github.com/dennis20413/portfolio-optimization) | Mean-variance, min-variance & risk-parity allocation |
 | [Quant Backtesting Framework](https://github.com/dennis20413/quant-backtest-framework) | Strategy backtesting with realistic costs and no look-ahead bias |
-| [Piecewise Regression — Equity Analysis](https://github.com/dennis20413/2026-V-TSLA-GOOG-AAPL-stock-analysis) | Statistical trend decomposition, validated against a reference tool |
+| [Piecewise Regression — Equity Analysis](https://github.com/dennis20413/piecewise-regression-equity-analysis) | Statistical trend decomposition, validated against a reference tool |
 
-*Every project includes unit tests and an honest methodology write-up — limitations stated, not hidden.*
+*The new ML service and reconciliation projects include automated tests, reproducible reports, and documented limitations. Evaluation protocols differ across the older projects.*
 
 ---
 
